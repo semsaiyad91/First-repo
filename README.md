@@ -1,2 +1,5 @@
-# First-repo
-This is demo for Git &amp; Github class.
+# teacher
+shardha khapra
+
+# student
+shahid saiyad
